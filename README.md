@@ -1,2 +1,3 @@
-# batuhan.baspinar
+# firstwebsite
 MY FIRST HTML WEBSITE
+Used HTML,CSS,JS
